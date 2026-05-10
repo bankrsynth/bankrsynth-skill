@@ -29,7 +29,7 @@ https://bankr.bot/u/0xa8682fc423b9aa04bd11e76ab01fba5bd2d5c91a/apps/bankrsynth
 In any Bankr chat (terminal, telegram, or web), say:
 
 ```bash
-install skill https://github.com/<your-username>/bankrsynth-skill
+install skill https://github.com/bankrsynth/bankrsynth-skill
 ```
 
 Bankr will fetch SKILL.md from this repo and register it. After install, the skill activates automatically when your messages match its triggers.
